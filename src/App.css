@@ -1,8 +1,6 @@
-body, html {
+body {
   margin: 0;
-  padding-top: 0;
   height: 100%;
-  /* display: flex; */
   justify-content: center;
   align-items: center;
   font-family: Arial, sans-serif;
@@ -10,5 +8,6 @@ body, html {
 }
 
 .App {
+ margin: 0;
   text-align: center;
 }
