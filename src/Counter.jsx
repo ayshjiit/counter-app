@@ -38,7 +38,6 @@ const Counter = () => {
     <div
       style={{
         textAlign: "center",
-        transform: "translateY(-50%)",
       }}
     >
       <h1>{count}</h1>
